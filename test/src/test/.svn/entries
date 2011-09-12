@@ -1,0 +1,40 @@
+8
+
+dir
+2
+svn://10.10.97.6/email_rec/test
+svn://10.10.97.6/email_rec
+
+
+
+2010-11-29T10:57:35.052496Z
+2
+zhangfeng
+
+
+svn:special svn:externals svn:needs-lock
+
+domain.lst
+file
+
+
+
+
+2010-11-29T11:03:20.000000Z
+dbd3cd4e3077c5f6e0db386ffb14e7ba
+2010-11-29T10:57:35.052496Z
+2
+zhangfeng
+
+freq.lst
+file
+
+
+
+
+2010-11-29T11:03:20.000000Z
+4d7138ae689a37d63d8f5e6164f43310
+2010-11-29T10:57:35.052496Z
+2
+zhangfeng
+
